@@ -1,2 +1,2 @@
 # shad2020_admission
-Привет
+Contains codes written by me on C++ when i entered shad. 
